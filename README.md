@@ -1,3 +1,7 @@
+# Causal GraphSAGE: A robust graph method for classification based on causal sampling
+
+## https://doi.org/10.1016/j.patcog.2022.108696
+
 ## Chapter7：Causal-GraphSage
 
 ### Document description
